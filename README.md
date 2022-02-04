@@ -1,10 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <h1 style="display: inline; border-bottom: none"> Hola! 👋 I am Harsh Kudtarkar.</h1> 
-<img align="right" style="display: inline; margin-top: 15px" src="https://komarev.com/ghpvc/?username=harshk-99&label=Profile%20views&color=0e75b6&style=flat"
+<img align="left" style="display: inline; margin-top: 15px" src="https://komarev.com/ghpvc/?username=harshk-99&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" />
-
-<hr style="height:1px; margin-top: 10px" />
 
 
 Graduate Electronics & Telecommunication Engineer, Product Engineer at RevenueHero. Strong inclination for working with FPGAs and Embedded Systems. Equally inclined at Web Development as well as Machine Learning. I am well versed with Python3, Java, JavaScript/TypeScript, C/C++, Flask, Verilog, Embedded-C, PostgreSQL and Matlab.
