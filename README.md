@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-<h1 style="display: inline; border-bottom: none"> Hola! 👋 I am Harsh Kudtarkar.</h1> 
+<h1 style="display: inline; border-bottom: none"> Hola! 👋 <br> I am Harsh Kudtarkar</h1> 
 <img align="left" style="display: inline; margin-top: 15px" src="https://komarev.com/ghpvc/?username=harshk-99&label=Profile%20views&color=0e75b6&style=flat"
     alt="harshk-99" />
 
