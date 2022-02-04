@@ -1,11 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-<div align="center">
-  <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=aae478da5f724baf">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <h1 style="display: inline; border-bottom: none"> Hola! 👋 I am Harsh Kudtarkar.</h1> 
 <img align="left" style="display: inline; margin-top: 15px" src="https://komarev.com/ghpvc/?username=harshk-99&label=Profile%20views&color=0e75b6&style=flat"
     alt="harshk-99" />
@@ -147,4 +141,13 @@ Graduate Electronics & Telecommunication Engineer, Product Engineer at RevenueHe
 ---
 
 ![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshk-99&custom_title=Harsh's%20Contribution%20Graph%20📈&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)
+
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/harsh-kudtarkar-4540b6160/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/harsh_15.99"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/harry15_99?t=qfneEZoQOqTyhDg&s=08"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+<br>
 
