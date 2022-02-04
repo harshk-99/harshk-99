@@ -116,8 +116,6 @@ Graduate Electronics & Telecommunication Engineer, Product Engineer at RevenueHe
   </a> 
 </p>
 
-<br>
-
 <h3>📊 Statistical Data: </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=harshk-99&show_icons=true&theme=radical&locale=en&layout=compact"
