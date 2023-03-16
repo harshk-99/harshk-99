@@ -9,8 +9,8 @@
 
 I am a Graduate student, pursuing Master's degree in Electrical Engineering with a specialization in VLSI design from University of Southern California. Deep interests in electronic design automation, semiconductor technology, and machine learning. I also have experience in various Web Technologies and frameworks :spider_web:. Passionate about open-source :octocat:.
 
-- 🌱 I’m currently learning [UVM](https://www.chipverify.com/uvm/uvm-tutorial).
-- 👨‍💻 I'm currently working on RISC-V core [Aurora](https://github.com/harshk-99/aurora).
+- 🧑🏼‍🎓 I’m currently learning [UVM](https://www.chipverify.com/uvm/uvm-tutorial).
+- 👨🏼‍💻 I'm currently working on RISC-V core [Aurora](https://github.com/harshk-99/aurora).
 - 🤝🏻 I’m looking to collaborate on any RTL or Verification project which seems interesting or useful.
 - 🎮 Let's play Valorant.
 - 📫 How to reach me: harshkudtarkar99@gmail.com
@@ -111,11 +111,11 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="harshk-99 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{harshk-99}/count.svg" alt="harshk-99 :: Visitor's Count" /></p>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=tokyonight&layout=compact" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" alt="harshk-99 :: Top Langs" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
