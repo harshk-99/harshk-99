@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <h1 style="display: inline; border-bottom: none"> Hola! 👋 <br> I am Harsh Kudtarkar</h1> 
-<br>
+
 <a><img src="https://github.com/harshk-99/harshk-99/blob/main/EC957178-3833-4F3A-B57B-36902C474698.png" align="right" height="200" /></a>
 
 I am a Graduate student, pursuing Master's degree in Electrical Engineering with a specialization in VLSI design from University of Southern California. Deep interests in electronic design automation, semiconductor technology, and machine learning. I also have experience in various Web Technologies and frameworks :spider_web:. Passionate about open-source :octocat:.
