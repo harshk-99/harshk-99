@@ -16,7 +16,6 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 - 📫 How to reach me: harshkudtarkar99@gmail.com
 - 👾 Fun fact: Did you know that the first integrated circuit (IC) had only a few transistors, while today's ICs can contain billions of transistors? [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)
 
----
 <h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">   
@@ -108,7 +107,6 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
----
 <br/>
 
 <h4 align="center">Visitor's count :eyes:</h4>
