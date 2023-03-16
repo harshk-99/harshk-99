@@ -124,17 +124,17 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/harshk-99/aurora" title="RISC-V CPU"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=aurora&theme=tokyonight"></a><a align="right" href="https://github.com/harshk-99/uart-core" title="UART"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=uart-core&theme=tokyonight"></a>
+  <a align="left" href="https://github.com/harshk-99/aurora" title="RISC-V CPU"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=aurora&theme=tokyonight"></a><a align="right" href="https://github.com/harshk-99/uart-core" title="UART"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=uart-core&theme=tokyonight"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/harshk-99/single-cycle-cpu" title="Single-Cycle-CPU based on MIPS R2000"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=single-cycle-cpu&theme=tokyonight"></a>
+  <a align="left" href="https://github.com/harshk-99/single-cycle-cpu" title="Single-Cycle-CPU based on MIPS R2000"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=single-cycle-cpu&theme=tokyonight"></a>
   <a align="right" href="https://github.com/harshk-99/PokeDB-using-NextJS" title="PokeDB"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=PokeDB-using-NextJS&theme=tokyonight"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/harshk-99/trello-clone" title="Trello Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=trello-clone&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/harshk-99/trello-cms" title="Trello CMS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=trello-cms&theme=tokyonight"></a>
+  <a align="left" href="https://github.com/harshk-99/trello-clone" title="Trello Clone"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=trello-clone&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/harshk-99/trello-cms" title="Trello CMS"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=trello-cms&theme=tokyonight"></a>
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/harshk-99?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
