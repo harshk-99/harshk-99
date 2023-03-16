@@ -135,7 +135,7 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/harshk-99/single-cycle-cpu" title="Single-Cycle-CPU based on MIPS R2000"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=single-cycle-cpu&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/harshk-99/PokeDB-using-NextJS" title="PokeDB"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=PokeDB-using-NextJS&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/harshk-99/PokeDB-using-NextJS" title="PokeDB"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=PokeDB-using-NextJS&theme=tokyonight"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
