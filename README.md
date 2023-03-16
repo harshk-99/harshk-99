@@ -122,7 +122,7 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 <br>
 
 <p align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshk-99&langs_count=10&theme=tokyonight&layout=compact" />
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshk-99&langs_count=10&theme=tokyonight&layout=compact" />
 </p>
 
 ---
