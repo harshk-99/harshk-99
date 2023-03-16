@@ -1,30 +1,25 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <h1 style="display: inline; border-bottom: none"> Hola! 👋 <br> I am Harsh Kudtarkar</h1> 
-<img align="left" style="display: inline; margin-top: 15px" src="https://komarev.com/ghpvc/?username=harshk-99&label=Profile%20views&color=0e75b6&style=flat"
-    alt="harshk-99" />
 
 <br>
 <br>
 
-Graduate Electronics & Telecommunication Engineer, Product Engineer at RevenueHero. Strong inclination for working with FPGAs and Embedded Systems. Equally inclined at Web Development as well as Machine Learning. I am well versed with Python3, Java, JavaScript/TypeScript, C/C++, Flask, Verilog, Embedded-C, PostgreSQL and Matlab.
+<a><img src="https://github.com/harshk-99/harshk-99/blob/main/EC957178-3833-4F3A-B57B-36902C474698.png" align="right" height="200" /></a>
+
+I am a Graduate student, pursuing Master's degree in Electrical Engineering with a specialization in VLSI design from University of Southern California. Deep interests in electronic design automation, semiconductor technology, and machine learning. I also have experience in various Web Technologies and frameworks :spider_web:. Passionate about open-source :octocat:.
+
+- 🌱 I’m currently learning [UVM](https://www.chipverify.com/uvm/uvm-tutorial).
+- 👨‍💻 I'm currently working on RISC-V core [Aurora](https://github.com/harshk-99/aurora).
+- 🤝🏻 I’m looking to collaborate on any RTL or Verification project which seems interesting or useful.
+- 🎮 Let's play Valorant.
+- 📫 How to reach me: harshkudtarkar99@gmail.com
+- 👾 Fun fact: Did you know that the first integrated circuit (IC) had only a few transistors, while today's ICs can contain billions of transistors? [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)
 
 ---
+<h2 align="center">💻 Languages & Tools</h2>
 
-<h3 align="left">💻 Languages and Tools: </h3>
-
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> 
-  </a> 
-  
+<p align="center">   
   <a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> 
@@ -53,11 +48,6 @@ Graduate Electronics & Telecommunication Engineer, Product Engineer at RevenueHe
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> 
   </a> 
   
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
@@ -116,29 +106,46 @@ Graduate Electronics & Telecommunication Engineer, Product Engineer at RevenueHe
   </a> 
 </p>
 
-<h3>📊 Statistical Data: </h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=harshk-99&show_icons=true&theme=radical&locale=en&layout=compact"
-    alt="harshk-99" /></p>
+<h2 align="center">Github stats :bar_chart:</h2>
 
 ---
 <br/>
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=radical&hide_border=true" />
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="harshk-99 :: Visitor's Count" /></p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=tokyonight&layout=compact" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshk-99&langs_count=10&theme=tokyonight&layout=compact" alt="harshk-99 :: Top Langs" />
   </a>
 </p>
 
 <br>
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=harshk-99&theme=radical&no-frame=true&column=6&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" />
 </p>
 
 ---
 
-![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshk-99&custom_title=Harsh's%20Contribution%20Graph%20📈&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/harshk-99/aurora" title="RISC-V CPU"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=aurora&theme=tokyonight"></a><a align="right" href="https://github.com/harshk-99/uart-core" title="UART"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=uart-core&theme=tokyonight"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/harshk-99/single-cycle-cpu" title="Single-Cycle-CPU based on MIPS R2000"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=single-cycle-cpu&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/harshk-99/PokeDB-using-NextJS" title="PokeDB"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=PokeDB-using-NextJS&theme=tokyonight"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/harshk-99/trello-clone" title="Trello Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=trello-clone&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/harshk-99/trello-cms" title="Trello CMS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harshk-99&repo=trello-cms&theme=tokyonight"></a>
+</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h4 align="center"><a href=https://github.com/harshk-99?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
