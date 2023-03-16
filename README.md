@@ -115,7 +115,7 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=tokyonight&layout=compact" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
