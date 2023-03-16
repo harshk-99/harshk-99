@@ -115,14 +115,14 @@ I am a Graduate student, pursuing Master's degree in Electrical Engineering with
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=tokyonight&layout=compact" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshk-99&langs_count=10&theme=tokyonight&layout=compact" alt="harshk-99 :: Top Langs" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" alt="harshk-99 :: Top Langs" />
   </a>
 </p>
 
 <br>
 
 <p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshk-99&langs_count=10&theme=tokyonight&layout=compact" />
 </p>
 
 ---
