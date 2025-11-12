@@ -97,7 +97,9 @@ I am a SoC Design Verification Engineer at Apple 🍎, focusing on memory subsys
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/harshk-99/count.svg" alt="harshk-99 :: Visitor's Count" /></p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=harshk-99&label=Profile%20views&color=0e75b6&style=flat" alt="harshk-99" />
+</p>
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=tokyonight&layout=compact" />
